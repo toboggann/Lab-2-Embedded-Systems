@@ -76,9 +76,5 @@ The project satisfies all functionality requirements defined in the Lab 2 assign
 
 ## Authors
 
-- [Your Name]
-- [Teammate's Name]
-
-## License
-
-This project is part of an academic course. Use is restricted to educational purposes.
+- Thomas Tsilimigras
+- Joshua Abello
